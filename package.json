@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "play": "node index.js",
+    "play": "npx ts-node index.ts",
+    "play:js": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
