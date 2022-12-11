@@ -32,7 +32,7 @@ cd ~/lesson/nodejs_rps_sample
 3. npm パッケージを取得します
 
 ```
-npm install
+npm ci
 ```
 
 4. プログラムを実行します
